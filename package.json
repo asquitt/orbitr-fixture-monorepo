@@ -1,0 +1,5 @@
+{
+  "name": "orbitr-fixture-monorepo",
+  "private": true,
+  "workspaces": ["apps/*"]
+}
